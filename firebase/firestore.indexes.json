@@ -1,0 +1,157 @@
+{
+  "indexes": [
+    {
+      "collectionGroup": "products",
+      "queryScope": "COLLECTION",
+      "fields": [
+        {
+          "fieldPath": "dress",
+          "order": "ASCENDING"
+        },
+        {
+          "fieldPath": "salePrice",
+          "order": "ASCENDING"
+        }
+      ]
+    },
+    {
+      "collectionGroup": "products",
+      "queryScope": "COLLECTION",
+      "fields": [
+        {
+          "fieldPath": "isBestSeller",
+          "order": "ASCENDING"
+        },
+        {
+          "fieldPath": "salePrice",
+          "order": "ASCENDING"
+        }
+      ]
+    },
+    {
+      "collectionGroup": "products",
+      "queryScope": "COLLECTION",
+      "fields": [
+        {
+          "fieldPath": "isFreeShip",
+          "order": "ASCENDING"
+        },
+        {
+          "fieldPath": "isPromotion",
+          "order": "ASCENDING"
+        },
+        {
+          "fieldPath": "isNew",
+          "order": "ASCENDING"
+        },
+        {
+          "fieldPath": "salePrice",
+          "order": "ASCENDING"
+        }
+      ]
+    },
+    {
+      "collectionGroup": "products",
+      "queryScope": "COLLECTION",
+      "fields": [
+        {
+          "fieldPath": "isFreeShip",
+          "order": "ASCENDING"
+        },
+        {
+          "fieldPath": "salePrice",
+          "order": "ASCENDING"
+        }
+      ]
+    },
+    {
+      "collectionGroup": "products",
+      "queryScope": "COLLECTION",
+      "fields": [
+        {
+          "fieldPath": "isNew",
+          "order": "ASCENDING"
+        },
+        {
+          "fieldPath": "salePrice",
+          "order": "ASCENDING"
+        }
+      ]
+    },
+    {
+      "collectionGroup": "products",
+      "queryScope": "COLLECTION",
+      "fields": [
+        {
+          "fieldPath": "isPromotion",
+          "order": "ASCENDING"
+        },
+        {
+          "fieldPath": "isFreeShip",
+          "order": "ASCENDING"
+        },
+        {
+          "fieldPath": "salePrice",
+          "order": "ASCENDING"
+        }
+      ]
+    },
+    {
+      "collectionGroup": "products",
+      "queryScope": "COLLECTION",
+      "fields": [
+        {
+          "fieldPath": "isPromotion",
+          "order": "ASCENDING"
+        },
+        {
+          "fieldPath": "salePrice",
+          "order": "ASCENDING"
+        }
+      ]
+    },
+    {
+      "collectionGroup": "products",
+      "queryScope": "COLLECTION",
+      "fields": [
+        {
+          "fieldPath": "Pants",
+          "order": "ASCENDING"
+        },
+        {
+          "fieldPath": "salePrice",
+          "order": "ASCENDING"
+        }
+      ]
+    },
+    {
+      "collectionGroup": "products",
+      "queryScope": "COLLECTION",
+      "fields": [
+        {
+          "fieldPath": "shirt",
+          "order": "ASCENDING"
+        },
+        {
+          "fieldPath": "salePrice",
+          "order": "ASCENDING"
+        }
+      ]
+    },
+    {
+      "collectionGroup": "products",
+      "queryScope": "COLLECTION",
+      "fields": [
+        {
+          "fieldPath": "Vest",
+          "order": "ASCENDING"
+        },
+        {
+          "fieldPath": "salePrice",
+          "order": "ASCENDING"
+        }
+      ]
+    }
+  ],
+  "fieldOverrides": []
+}
