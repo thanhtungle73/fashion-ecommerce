@@ -7,7 +7,7 @@ This is a clothes e-commerce project.
 2. Shop products list with sort, filter, pagination functions.
 3. Product details page.
 4. Add product to cart.
-5. Register/login using using firebase authentication.
+5. Register/login user using firebase authentication.
 6. Update personal profiles with shipping addresses and other info.
 7. Administration page with charts and summary report.
 8. Administration page manage category, product and orders.
